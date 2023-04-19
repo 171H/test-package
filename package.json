@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/171H/test-package#readme",
   "dependencies": {
-    "@171h/log": "^1.0.0"
+    "@171h/log": "^1.2.0"
   }
 }
